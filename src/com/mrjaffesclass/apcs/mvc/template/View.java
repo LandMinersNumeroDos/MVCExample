@@ -14,7 +14,7 @@ import javax.swing.JFrame;
  * MVC Template
  * This is a template of an MVC framework used by APCS for the 
  * LandMine project (and others)
- * @author Nick Patrick
+ * @author Nick Patrick, Chris Bireley, and Dillon Brumfield
  * @version 1.0
  * 
  */
