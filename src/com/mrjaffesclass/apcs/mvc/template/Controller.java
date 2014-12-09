@@ -9,7 +9,7 @@ import com.mrjaffesclass.apcs.messenger.*;
  * etc.  It also sends and receives messages to the Model to commuincate
  * changes required and changes made to the Model variables.  
  *
- * @author Roger Jaffe
+ * @author Dillon Brumfield
  * @version 1.0
  */
 public class Controller implements MessageHandler {
