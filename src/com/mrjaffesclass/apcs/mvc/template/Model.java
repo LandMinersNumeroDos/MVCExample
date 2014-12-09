@@ -4,7 +4,7 @@ import com.mrjaffesclass.apcs.messenger.*;
 
 /**
  * The model represents the data that the app uses.
- * @author Roger Jaffe
+ * @author Chris Bireley
  * @version 1.0
  */
 public class Model implements MessageHandler {
